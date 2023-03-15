@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/christianancheta/Documents/GitHub/uncoupled-double-pendulums/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -o CMakeFiles/sim.dir/sim.cpp.o -c /Users/christianancheta/Documents/GitHub/uncoupled-double-pendulums/sim.cpp",
+  "file": "/Users/christianancheta/Documents/GitHub/uncoupled-double-pendulums/sim.cpp",
+  "output": "CMakeFiles/sim.dir/sim.cpp.o"
+}
+]
